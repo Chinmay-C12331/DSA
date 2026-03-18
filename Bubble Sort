@@ -31,4 +31,4 @@ int main(){
     printf("%d ",a[i]);
     printf("\nTime taken: %f seconds",cpu_time);
 return 0;
-}
+} 
